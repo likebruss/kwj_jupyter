@@ -1,0 +1,11 @@
+Current Activity,ZIP Code,value
+Creation Date,74055,non-null values
+Status,74055,non-null values
+Completion Date,72154,non-null values
+Completion Date,72154,non-null values
+Service Request Number,74055,non-null values
+Type of Service Request,74055,non-null values
+Latitude,74043,non-null values
+Longitude,74043,non-null values
+Location,74043,non-null values
+dtypes: float64(11), object(9)
