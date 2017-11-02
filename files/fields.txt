@@ -1,0 +1,6 @@
+field.symbol # Metryka / Symbol
+field.name # Metryka / Nazwa firmy
+field.shortName # Metryka / Nazwa skrócona
+field.type # Metryka / Typ
+field.categories # Metryka / Kontekst
+field.trades # Metryka / Branża
